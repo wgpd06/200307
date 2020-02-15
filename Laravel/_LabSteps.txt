@@ -1,4 +1,5 @@
-# Laravel 入門練習動手做
+﻿# Laravel 入門練習動手做
+
 1. setup.txt，所需軟體安裝說明
 2. _LabSteps_Hello.txt，Laravel 入門第一例: Hello
 3. _LabSteps_Controller.txt，路由與控制器
